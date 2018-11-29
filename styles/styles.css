@@ -2,3 +2,18 @@
     padding: 0;
     margin: 0;
 }
+body{
+    background-color: blue;
+}
+.contenedor{
+    width: 100%;
+}
+.contenedor img, .contenedor h1{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+.label-logo{
+    font-family: 'Roboto';
+    color: #9a9a9a;
+}
