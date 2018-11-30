@@ -17,3 +17,20 @@ body{
     font-family: 'Roboto';
     color: #fff;
 }
+p{
+    font-family: 'Roboto';
+    color: #fff;
+    padding: 20px;
+}
+button {
+    background-color: orangered;
+    color: #fff;
+    padding: 10px 30px;
+    border: none;
+    font-weight: 600;
+    margin: 0 20px;
+}
+button:hover{
+    background-color: orange;
+    cursor: pointer;
+}
