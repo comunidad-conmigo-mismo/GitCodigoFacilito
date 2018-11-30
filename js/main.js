@@ -1,1 +1,5 @@
-alert("Bienvenido al sistema de control de versiones GIT");
+var boton = document.getElementById("btn_go");
+function saludo(){
+    alert("Bienvenido a GIT");
+}
+boton.addEventListener("click", saludo);
