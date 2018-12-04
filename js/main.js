@@ -4,5 +4,8 @@ function saludo(){
 }
 boton.addEventListener("click", saludo);
 class Registro{
-
+    
+}
+class Modificar{
+    
 }
