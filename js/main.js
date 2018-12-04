@@ -3,3 +3,6 @@ function saludo(){
     alert("Bienvenido a GIT");
 }
 boton.addEventListener("click", saludo);
+class Registro{
+
+}
